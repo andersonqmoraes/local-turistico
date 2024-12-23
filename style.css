@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+
+}
+
+body {
+  background: #f5f4f0;
+  padding: 88px 80px 0px;
+}
+
+main{
+  width: 1120px;
+  margin: auto;
+}
