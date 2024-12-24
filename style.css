@@ -93,3 +93,8 @@ li::marker {
 .pink{
   color: #E5245E;
 }
+
+footer{
+  text-align: center;
+  margin: 65px 0;
+}
